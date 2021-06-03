@@ -16,6 +16,7 @@ for (var i = 0; i <=cognomi.length; i++) {
     output.innerHTML +=  cognomi[i] + "<br>";
 }
 
+
 output.innerHTML +=(cognomi.indexOf("mioCognome")+1);
 
 
