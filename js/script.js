@@ -17,7 +17,6 @@ for (var i = 0; i <cognomi.length; i++) {
 }
 
 mioCognome = mioCognome.toLocaleUpperCase();
-output.innerHTML += mioCognome;
 output.innerHTML += "La posizione del tuo cognome è : "+(cognomi.indexOf(mioCognome)+1);
 
 // Soluzione alternativa con la sola iniziale maiuscola.
