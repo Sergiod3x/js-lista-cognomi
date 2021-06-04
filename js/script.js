@@ -1,5 +1,5 @@
 var output = document.getElementById('out');
-var cognomi =["Musazzi", "ginnini", "conte", "Perda", "Ruffini", "Mastella"]
+var cognomi =["Musazzi", "giannini", "conte", "Perda", "Ruffini", "Mastella"]
 var mioCognome = prompt("Inserisci il tuo cognome");
 cognomi.push(mioCognome);
 
